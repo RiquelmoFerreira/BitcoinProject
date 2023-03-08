@@ -21,7 +21,7 @@ The project is an analysis of the closing Value, the Moving Average and the Tede
 - Plotly
 
 # Run the Project
-Pré-Requisitos:
+Prerequisites:
 - Jupyter Notebook
 - Numpy
 - Pandas
