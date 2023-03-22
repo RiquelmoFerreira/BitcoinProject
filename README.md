@@ -22,6 +22,7 @@ The project is an analysis of the closing Value, the Moving Average and the Tede
 
 # Run the Project
 Prerequisites:
+- Python 3.11.0 or superior
 - Jupyter Notebook
 - Numpy
 - Pandas
