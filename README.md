@@ -1,3 +1,4 @@
+# English:
 # Bitcoin Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisBitcoinProject/blob/main/LICENSE)
 
@@ -29,6 +30,42 @@ Prerequisites:
 - Plotly
 
 # Author
+Riquelmo Afonso Avelar Ferreira
+
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
+#
+
+# Português:
+# Análise do Mercado de Bitcoin
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisBitcoinProject/blob/main/LICENSE)
+
+# Sobre o projeto
+
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking
+
+Esse projeto é uma análise do Valor de Fechamento, da Média Móvel e da Tendência do Bitcoin durante os anos de 2017 a 2022, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas e Plotly no ambiente do Jupyter Notebook.
+
+## Visão Geral
+![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/1.png)
+
+## Visão Geral do Gráfico
+![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/2.png)
+
+# Tecnologias e Bibliotecas
+- Python para Análise de Dados
+- Numpy
+- Pandas
+- Plotly
+
+# Rode o Projeto:
+Pré-Requisitos:
+- Python 3.11.0 ou superior
+- Jupyter Notebook
+- Numpy
+- Pandas
+- Plotly
+
+# Autor
 Riquelmo Afonso Avelar Ferreira
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
