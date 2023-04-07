@@ -4,7 +4,7 @@
 
 # About the Project
 
-This project was done during the hands-on training of the Python for Data Analysis course carried out by DataViking
+This project was done during the hands-on training of the Python for Data Analysis course carried out by DataViking and the file is available in the languages: Portuguese (Projeto_Bitcoin.ipynb) and English (Bitcoin_Project.ipynb)
 
 The project is an analysis of the closing Value, the Moving Average and the Tedency of Bitcoin during the years 2017 to 2022, in this project the Python language and its libraries Numpy, Pandas and Plotly were used in the Jupyter Notebook environment
 
@@ -45,7 +45,7 @@ https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 
 # Sobre o projeto
 
-Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking e o arquivo está disponível nas linguagens: Português (Projeto_Bitcoin.ipynb) e Inglês (Bitcoin_Project.ipynb)
 
 Esse projeto é uma análise do Valor de Fechamento, da Média Móvel e da Tendência do Bitcoin durante os anos de 2017 a 2022, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas e Plotly no ambiente do Jupyter Notebook.
 
