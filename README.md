@@ -32,6 +32,7 @@ Prerequisites:
 - Numpy
 - Pandas
 - Plotly
+- Power Point
 
 # Author
 Riquelmo Afonso Avelar Ferreira
