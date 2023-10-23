@@ -72,6 +72,7 @@ Pré-Requisitos:
 - Numpy
 - Pandas
 - Plotly
+- Power Point
 
 # Autor
 Riquelmo Afonso Avelar Ferreira
