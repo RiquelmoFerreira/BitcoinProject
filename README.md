@@ -1,3 +1,45 @@
+# Português:
+# Análise do Mercado de Bitcoin
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisBitcoinProject/blob/main/LICENSE)
+
+# Sobre o projeto
+
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking e o arquivo está disponível nas linguagens: Português (Projeto_Bitcoin.ipynb) e Inglês (Bitcoin_Project.ipynb)
+
+Esse projeto é uma análise do Valor de Fechamento, da Média Móvel e da Tendência do Bitcoin durante os anos de 2017 a 2022, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas e Plotly no ambiente do Jupyter Notebook.
+
+O Dataset possui as informações da Data, do valor da Alta, do valor da Baixa, do valor da Abertura, do Fechamento, do Volume e do Fechamento Ajustado do Bitcoin do período de 2017 até 2022, nessa análise buscamos entender as altas e baixas do valor do Bitcoin e sua explosão de crescimento.
+
+Durante a análise usamos gráficos em linha para analisar a evolução do valor de fechamento do Bitcoin, podemos perceber que o primeiro pico de crescimento do Bitcoin durante o período analisado foi no ano de 2018 e ele seguiu oscilando até o ano de 2021 onde o valor de fechamento teve seu pico. Definimos também a Média Móvel dividida ao longo de um período de 5 dias e a Tendência de fechamento durante um período de 30 dias.
+
+## Visão Geral
+![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/1.png)
+
+## Visão Geral do Gráfico
+![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/2.png)
+
+# Tecnologias e Bibliotecas
+- Python para Análise de Dados
+- Numpy
+- Pandas
+- Plotly
+
+# Rode o Projeto:
+Pré-Requisitos:
+- Python 3.11.0 ou superior
+- Jupyter Notebook
+- Numpy
+- Pandas
+- Plotly
+- Power Point
+
+# Autor
+Riquelmo Afonso Avelar Ferreira
+
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
+
+#
+
 # English:
 # Bitcoin Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisBitcoinProject/blob/main/LICENSE)
@@ -40,42 +82,3 @@ Riquelmo Afonso Avelar Ferreira
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 #
 
-# Português:
-# Análise do Mercado de Bitcoin
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisBitcoinProject/blob/main/LICENSE)
-
-# Sobre o projeto
-
-Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por DataViking e o arquivo está disponível nas linguagens: Português (Projeto_Bitcoin.ipynb) e Inglês (Bitcoin_Project.ipynb)
-
-Esse projeto é uma análise do Valor de Fechamento, da Média Móvel e da Tendência do Bitcoin durante os anos de 2017 a 2022, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Numpy, Pandas e Plotly no ambiente do Jupyter Notebook.
-
-O Dataset possui as informações da Data, do valor da Alta, do valor da Baixa, do valor da Abertura, do Fechamento, do Volume e do Fechamento Ajustado do Bitcoin do período de 2017 até 2022, nessa análise buscamos entender as altas e baixas do valor do Bitcoin e sua explosão de crescimento.
-
-Durante a análise usamos gráficos em linha para analisar a evolução do valor de fechamento do Bitcoin, podemos perceber que o primeiro pico de crescimento do Bitcoin durante o período analisado foi no ano de 2018 e ele seguiu oscilando até o ano de 2021 onde o valor de fechamento teve seu pico. Definimos também a Média Móvel dividida ao longo de um período de 5 dias e a Tendência de fechamento durante um período de 30 dias.
-
-## Visão Geral
-![VisaoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/1.png)
-
-## Visão Geral do Gráfico
-![GraficoGeral](https://github.com/RiquelmoFerreira/Images/blob/main/2.png)
-
-# Tecnologias e Bibliotecas
-- Python para Análise de Dados
-- Numpy
-- Pandas
-- Plotly
-
-# Rode o Projeto:
-Pré-Requisitos:
-- Python 3.11.0 ou superior
-- Jupyter Notebook
-- Numpy
-- Pandas
-- Plotly
-- Power Point
-
-# Autor
-Riquelmo Afonso Avelar Ferreira
-
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
